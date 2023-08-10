@@ -1,5 +1,2 @@
-this my form login dan register 
+Login Register By Kynn
 
-make in html and css
-
-:)
